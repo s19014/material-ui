@@ -7,9 +7,9 @@ import './App.css'
 
 const App = props => {
   const data = [
-    { name: 'tedokon', age: 23 },
-    { name: 'ryota', age: 20 },
-    { name: 'foo', age: 0 }
+    { name: 'aaa', age: 23 },
+    { name: 'bbb', age: 20 },
+    { name: 'ccc', age: 0 }
   ]
   return (
     //<Card>
